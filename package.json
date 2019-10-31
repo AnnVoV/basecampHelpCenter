@@ -1,0 +1,16 @@
+{
+  "name": "basecampHelpCenter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AnnVoV/basecampHelpCenter.git",
+  "author": "zhenganran <ann.zar@alibaba-inc.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.0.0-rc.1",
+    "vuepress-plugin-yuque": "^0.6.0"
+  },
+  "scripts": {
+    "dev": ".vuepress dev .",
+    "build": ".vuepress build ."
+  }
+}
